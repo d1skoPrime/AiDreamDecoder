@@ -1,0 +1,772 @@
+[
+  {
+    "name": "Monster",
+    "category": "Being",
+    "description": "In dreams, monster often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Eyes",
+    "category": "Body",
+    "description": "In dreams, eyes often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Falling",
+    "category": "Situation",
+    "description": "In dreams, falling often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Chains",
+    "category": "Symbol",
+    "description": "In dreams, chains often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Candle",
+    "category": "Object",
+    "description": "In dreams, candle often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Flying",
+    "category": "Situation",
+    "description": "In dreams, flying often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "School",
+    "category": "Place",
+    "description": "In dreams, school often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Snake",
+    "category": "Animal",
+    "description": "In dreams, snake often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Hospital",
+    "category": "Place",
+    "description": "In dreams, hospital often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Temple",
+    "category": "Place",
+    "description": "In dreams, temple often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Black",
+    "category": "Color",
+    "description": "In dreams, black often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Boat",
+    "category": "Vehicle",
+    "description": "In dreams, boat often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Spider",
+    "category": "Animal",
+    "description": "In dreams, spider often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Train",
+    "category": "Vehicle",
+    "description": "In dreams, train often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Fog",
+    "category": "Element",
+    "description": "In dreams, fog often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Rocket",
+    "category": "Vehicle",
+    "description": "In dreams, rocket often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Losing",
+    "category": "Situation",
+    "description": "In dreams, losing often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Witch",
+    "category": "Being",
+    "description": "In dreams, witch often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Running",
+    "category": "Situation",
+    "description": "In dreams, running often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Orange",
+    "category": "Color",
+    "description": "In dreams, orange often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Cross",
+    "category": "Symbol",
+    "description": "In dreams, cross often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Dog",
+    "category": "Animal",
+    "description": "In dreams, dog often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Thorns",
+    "category": "Symbol",
+    "description": "In dreams, thorns often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Skeleton",
+    "category": "Body",
+    "description": "In dreams, skeleton often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Submarine",
+    "category": "Vehicle",
+    "description": "In dreams, submarine often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Twin",
+    "category": "Being",
+    "description": "In dreams, twin often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Smoke",
+    "category": "Element",
+    "description": "In dreams, smoke often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Voice",
+    "category": "Body",
+    "description": "In dreams, voice often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Car",
+    "category": "Vehicle",
+    "description": "In dreams, car often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Foot",
+    "category": "Body",
+    "description": "In dreams, foot often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "House",
+    "category": "Place",
+    "description": "In dreams, house often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Crown",
+    "category": "Symbol",
+    "description": "In dreams, crown often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Air",
+    "category": "Element",
+    "description": "In dreams, air often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Skin",
+    "category": "Body",
+    "description": "In dreams, skin often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Hands",
+    "category": "Body",
+    "description": "In dreams, hands often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Skull",
+    "category": "Symbol",
+    "description": "In dreams, skull often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Eagle",
+    "category": "Animal",
+    "description": "In dreams, eagle often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Web",
+    "category": "Symbol",
+    "description": "In dreams, web often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Cemetery",
+    "category": "Place",
+    "description": "In dreams, cemetery often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Circle",
+    "category": "Symbol",
+    "description": "In dreams, circle often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Desert",
+    "category": "Place",
+    "description": "In dreams, desert often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Plane",
+    "category": "Vehicle",
+    "description": "In dreams, plane often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Shadow",
+    "category": "Being",
+    "description": "In dreams, shadow often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Elevator",
+    "category": "Vehicle",
+    "description": "In dreams, elevator often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Mountain",
+    "category": "Place",
+    "description": "In dreams, mountain often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Fish",
+    "category": "Animal",
+    "description": "In dreams, fish often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Blue",
+    "category": "Color",
+    "description": "In dreams, blue often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Key",
+    "category": "Object",
+    "description": "In dreams, key often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Earth",
+    "category": "Element",
+    "description": "In dreams, earth often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Lava",
+    "category": "Element",
+    "description": "In dreams, lava often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Ring",
+    "category": "Object",
+    "description": "In dreams, ring often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Lion",
+    "category": "Animal",
+    "description": "In dreams, lion often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Ocean",
+    "category": "Place",
+    "description": "In dreams, ocean often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Hair",
+    "category": "Body",
+    "description": "In dreams, hair often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Ladder",
+    "category": "Object",
+    "description": "In dreams, ladder often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Purple",
+    "category": "Color",
+    "description": "In dreams, purple often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Forest",
+    "category": "Place",
+    "description": "In dreams, forest often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Ghost",
+    "category": "Being",
+    "description": "In dreams, ghost often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Hiding",
+    "category": "Situation",
+    "description": "In dreams, hiding often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Ice",
+    "category": "Element",
+    "description": "In dreams, ice often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Wolf",
+    "category": "Animal",
+    "description": "In dreams, wolf often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Water",
+    "category": "Element",
+    "description": "In dreams, water often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Dancing",
+    "category": "Situation",
+    "description": "In dreams, dancing often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Storm",
+    "category": "Element",
+    "description": "In dreams, storm often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Clock",
+    "category": "Object",
+    "description": "In dreams, clock often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Door",
+    "category": "Object",
+    "description": "In dreams, door often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Teeth",
+    "category": "Body",
+    "description": "In dreams, teeth often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Bridge",
+    "category": "Object",
+    "description": "In dreams, bridge often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Fighting",
+    "category": "Situation",
+    "description": "In dreams, fighting often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Mask",
+    "category": "Symbol",
+    "description": "In dreams, mask often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Heart",
+    "category": "Body",
+    "description": "In dreams, heart often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Horse",
+    "category": "Animal",
+    "description": "In dreams, horse often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Cat",
+    "category": "Animal",
+    "description": "In dreams, cat often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Crying",
+    "category": "Situation",
+    "description": "In dreams, crying often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Drowning",
+    "category": "Situation",
+    "description": "In dreams, drowning often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Book",
+    "category": "Object",
+    "description": "In dreams, book often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Mirror",
+    "category": "Object",
+    "description": "In dreams, mirror often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Bus",
+    "category": "Vehicle",
+    "description": "In dreams, bus often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Gray",
+    "category": "Color",
+    "description": "In dreams, gray often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "White",
+    "category": "Color",
+    "description": "In dreams, white often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Star",
+    "category": "Symbol",
+    "description": "In dreams, star often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Lightning",
+    "category": "Element",
+    "description": "In dreams, lightning often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Yellow",
+    "category": "Color",
+    "description": "In dreams, yellow often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Chasing",
+    "category": "Situation",
+    "description": "In dreams, chasing often symbolizes aspects related to the situation category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Demon",
+    "category": "Being",
+    "description": "In dreams, demon often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Green",
+    "category": "Color",
+    "description": "In dreams, green often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Angel",
+    "category": "Being",
+    "description": "In dreams, angel often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Stranger",
+    "category": "Being",
+    "description": "In dreams, stranger often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Horse Carriage",
+    "category": "Vehicle",
+    "description": "In dreams, horse carriage often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Fire",
+    "category": "Element",
+    "description": "In dreams, fire often symbolizes aspects related to the element category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Bear",
+    "category": "Animal",
+    "description": "In dreams, bear often symbolizes aspects related to the animal category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Blood",
+    "category": "Body",
+    "description": "In dreams, blood often symbolizes aspects related to the body category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Bicycle",
+    "category": "Vehicle",
+    "description": "In dreams, bicycle often symbolizes aspects related to the vehicle category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Sword",
+    "category": "Object",
+    "description": "In dreams, sword often symbolizes aspects related to the object category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Child",
+    "category": "Being",
+    "description": "In dreams, child often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Zombie",
+    "category": "Being",
+    "description": "In dreams, zombie often symbolizes aspects related to the being category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Gold",
+    "category": "Color",
+    "description": "In dreams, gold often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Cave",
+    "category": "Place",
+    "description": "In dreams, cave often symbolizes aspects related to the place category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Triangle",
+    "category": "Symbol",
+    "description": "In dreams, triangle often symbolizes aspects related to the symbol category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Red",
+    "category": "Color",
+    "description": "In dreams, red often symbolizes aspects related to the color category. Interpretations may vary depending on context."
+  },
+  {
+    "name": "Lantern",
+    "category": "Object",
+    "description": "In dreams, lantern often symbolizes guidance, intuition, and clarity emerging in darkness."
+  },
+  {
+    "name": "Volcano",
+    "category": "Place",
+    "description": "In dreams, volcano often symbolizes suppressed emotions, explosive energy, or major change."
+  },
+  {
+    "name": "Jellyfish",
+    "category": "Animal",
+    "description": "In dreams, jellyfish often symbolizes hidden threats, emotional sensitivity, or passive danger."
+  },
+  {
+    "name": "Compass",
+    "category": "Object",
+    "description": "In dreams, compass often symbolizes direction, life choices, or seeking orientation."
+  },
+  {
+    "name": "Tunnel",
+    "category": "Place",
+    "description": "In dreams, tunnel often symbolizes transitions, uncertainty, or entering the subconscious."
+  },
+  {
+    "name": "Sleeping",
+    "category": "Situation",
+    "description": "In dreams, sleeping often symbolizes introspection, rest, or avoidance."
+  },
+  {
+    "name": "Fireworks",
+    "category": "Symbol",
+    "description": "In dreams, fireworks often symbolize celebration, sudden emotions, or fleeting excitement."
+  },
+  {
+    "name": "Crow",
+    "category": "Animal",
+    "description": "In dreams, crow often symbolizes mystery, secrets, or transformation."
+  },
+  {
+    "name": "Shield",
+    "category": "Object",
+    "description": "In dreams, shield often symbolizes protection, boundaries, or defense mechanisms."
+  },
+  {
+    "name": "Ink",
+    "category": "Object",
+    "description": "In dreams, ink often symbolizes communication, expression, or permanence."
+  },
+  {
+    "name": "Prison",
+    "category": "Place",
+    "description": "In dreams, prison often symbolizes restriction, guilt, or feeling trapped."
+  },
+  {
+    "name": "Hawk",
+    "category": "Animal",
+    "description": "In dreams, hawk often symbolizes focus, observation, and strategic thinking."
+  },
+  {
+    "name": "Armor",
+    "category": "Object",
+    "description": "In dreams, armor often symbolizes emotional protection or preparing for conflict."
+  },
+  {
+    "name": "Honey",
+    "category": "Object",
+    "description": "In dreams, honey often symbolizes reward, sweetness, or slow progress."
+  },
+  {
+    "name": "Meteor",
+    "category": "Symbol",
+    "description": "In dreams, meteor often symbolizes sudden change, impact, or destiny."
+  },
+  {
+    "name": "Marble",
+    "category": "Object",
+    "description": "In dreams, marble often symbolizes permanence, perfection, or cold logic."
+  },
+  {
+    "name": "Cave",
+    "category": "Place",
+    "description": "In dreams, cave often symbolizes the subconscious, mystery, or retreat."
+  },
+  {
+    "name": "Robot",
+    "category": "Being",
+    "description": "In dreams, robot often symbolizes routine, emotional detachment, or automation."
+  },
+  {
+    "name": "Champagne",
+    "category": "Object",
+    "description": "In dreams, champagne often symbolizes success, celebration, or overindulgence."
+  },
+  {
+    "name": "Rope",
+    "category": "Object",
+    "description": "In dreams, rope often symbolizes connection, restraint, or support."
+  },
+  {
+    "name": "Crowd",
+    "category": "Being",
+    "description": "In dreams, crowd often symbolizes pressure, conformity, or social overwhelm."
+  },
+  {
+    "name": "Bridge Collapse",
+    "category": "Situation",
+    "description": "In dreams, bridge collapse often symbolizes broken plans or sudden obstacles."
+  },
+  {
+    "name": "Chessboard",
+    "category": "Object",
+    "description": "In dreams, chessboard often symbolizes strategy, competition, or planning."
+  },
+  {
+    "name": "Window",
+    "category": "Object",
+    "description": "In dreams, window often symbolizes perspective, insight, or opportunity."
+  },
+  {
+    "name": "Meteor Shower",
+    "category": "Element",
+    "description": "In dreams, meteor shower often symbolizes overwhelming change or inspiration."
+  },
+  {
+    "name": "Crowns of Thorns",
+    "category": "Symbol",
+    "description": "In dreams, crowns of thorns often symbolize sacrifice, suffering, or endurance."
+  },
+  {
+    "name": "Frost",
+    "category": "Element",
+    "description": "In dreams, frost often symbolizes emotional coldness or halted progress."
+  },
+  {
+    "name": "Harbor",
+    "category": "Place",
+    "description": "In dreams, harbor often symbolizes safety, transition, or readiness for travel."
+  },
+  {
+    "name": "Scarf",
+    "category": "Object",
+    "description": "In dreams, scarf often symbolizes comfort, concealment, or insecurity."
+  },
+  {
+    "name": "Satchel",
+    "category": "Object",
+    "description": "In dreams, satchel often symbolizes preparation, knowledge, or burdens carried."
+  },
+  {
+    "name": "Pebbles",
+    "category": "Object",
+    "description": "In dreams, pebbles often symbolize small problems or minor obstacles."
+  },
+  {
+    "name": "Mermaid",
+    "category": "Being",
+    "description": "In dreams, mermaid often symbolizes seduction, fantasy, or emotional depth."
+  },
+  {
+    "name": "Sandstorm",
+    "category": "Element",
+    "description": "In dreams, sandstorm often symbolizes confusion, chaos, or emotional clouding."
+  },
+  {
+    "name": "Whistle",
+    "category": "Object",
+    "description": "In dreams, whistle often symbolizes alertness or calling attention."
+  },
+  {
+    "name": "Telescope",
+    "category": "Object",
+    "description": "In dreams, telescope often symbolizes long-term vision or future possibilities."
+  },
+  {
+    "name": "Fountain",
+    "category": "Place",
+    "description": "In dreams, fountain often symbolizes renewal, youth, or emotional abundance."
+  },
+  {
+    "name": "Garden",
+    "category": "Place",
+    "description": "In dreams, garden often symbolizes growth, peace, or inner development."
+  },
+  {
+    "name": "Harpy",
+    "category": "Being",
+    "description": "In dreams, harpy often symbolizes fear, vengeance, or suppressed anger."
+  },
+  {
+    "name": "Quartz",
+    "category": "Object",
+    "description": "In dreams, quartz often symbolizes clarity, healing, or focus."
+  },
+  {
+    "name": "Tornado",
+    "category": "Element",
+    "description": "In dreams, tornado often symbolizes emotional turmoil or instability."
+  },
+  {
+    "name": "Opera House",
+    "category": "Place",
+    "description": "In dreams, opera house often symbolizes expression, drama, or performance."
+  },
+  {
+    "name": "Whirlpool",
+    "category": "Element",
+    "description": "In dreams, whirlpool often symbolizes being overwhelmed or pulled into problems."
+  },
+  {
+    "name": "Gate",
+    "category": "Object",
+    "description": "In dreams, gate often symbolizes transition, barriers, or new phases."
+  },
+  {
+    "name": "Meadow",
+    "category": "Place",
+    "description": "In dreams, meadow often symbolizes peace, simplicity, or healing."
+  },
+  {
+    "name": "Fox",
+    "category": "Animal",
+    "description": "In dreams, fox often symbolizes cleverness, danger, or resourcefulness."
+  },
+  {
+    "name": "Antlers",
+    "category": "Symbol",
+    "description": "In dreams, antlers often symbolize dominance, confidence, or masculinity."
+  },
+  {
+    "name": "Vine",
+    "category": "Plant",
+    "description": "In dreams, vine often symbolizes growth, attachment, or entanglement."
+  },
+  {
+    "name": "Blizzard",
+    "category": "Element",
+    "description": "In dreams, blizzard often symbolizes emotional numbness or isolation."
+  },
+  {
+    "name": "Island",
+    "category": "Place",
+    "description": "In dreams, island often symbolizes solitude, independence, or separation."
+  },
+  {
+    "name": "Feather",
+    "category": "Object",
+    "description": "In dreams, feather often symbolizes lightness, freedom, or subtle messages."
+  },
+  {
+    "name": "Map",
+    "category": "Object",
+    "description": "In dreams, map often symbolizes direction, planning, or understanding life's path."
+  },
+  {
+    "name": "Crownless King",
+    "category": "Being",
+    "description": "In dreams, crownless king often symbolizes lost authority, insecurity, or transition."
+  },
+  {
+    "name": "Ink Spill",
+    "category": "Situation",
+    "description": "In dreams, ink spill often symbolizes mistakes, regret, or irreversible actions."
+  },
+  {
+    "name": "Necklace",
+    "category": "Object",
+    "description": "In dreams, necklace often symbolizes connection, memories, or emotional value."
+  }
+]

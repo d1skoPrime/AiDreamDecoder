@@ -1,0 +1,96 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js" // 
+  // output   = "../src/generated"
+}
+
+datasource db {
+  provider = "postgresql"
+  // url      = env("DATABASE_URL")
+}
+
+model User {
+  id                    String        @id @default(cuid())
+  stripeCustomerId      String?       @unique
+  email                 String        @unique
+  name                  String?
+  password              String?
+  googleId              String?       @unique @map("google_id")
+  picture               String?
+  createdAt             DateTime      @default(now()) @map("created_at")
+  updatedAt             DateTime      @updatedAt @map("updated_at")
+  dreams                Dream[]
+  subscription          Subscription?
+  dailyRequestCount     Int           @default(0)
+  role                  Role          @default(USER)
+  freeDreamRequestsLeft Int           @default(2)
+  lastRequestDate       DateTime? // null если пользователь ещё не делал запрос
+}
+
+model Dream {
+  id        String    @id @default(cuid())
+  title     String
+  content   String
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  userId    String
+  user      User      @relation(fields: [userId], references: [id])
+  date      DateTime  @map("dream_date")
+  analysis  Analysis?
+
+  symbols DreamSymbol[]
+}
+
+model Symbol {
+  id          String        @id @default(cuid())
+  name        String        @unique
+  description String?
+  category    String?
+  dreams      DreamSymbol[]
+}
+
+model DreamSymbol {
+  id       String @id @default(cuid())
+  dreamId  String
+  symbolId String
+  dream    Dream  @relation(fields: [dreamId], references: [id])
+  symbol   Symbol @relation(fields: [symbolId], references: [id])
+}
+
+model Analysis {
+  id             String   @id @default(cuid())
+  dream          Dream    @relation(fields: [dreamId], references: [id], onDelete: Cascade)
+  dreamId        String   @unique
+  summary        String // краткое содержание
+  interpretation String // AI-интерпретация
+  emotions       Json?
+  createdAt      DateTime @default(now())
+}
+
+model Subscription {
+  id                   String           @id @default(cuid())
+  nextReset            DateTime         @default(now()) // new field, to calc when is next reset for subscription 
+  user                 User             @relation(fields: [userId], references: [id])
+  userId               String           @unique
+  isActive             Boolean          @default(true)
+  startedAt            DateTime         @default(now())
+  stripeSubscriptionId String?          @unique
+  expiresAt            DateTime
+  tier                 SubscriptionTier @default(FREE)
+}
+
+enum SubscriptionTier {
+  FREE
+  BASIC
+  PREMIUM
+}
+
+enum Role {
+  ADMIN
+  USER
+}
