@@ -1,0 +1,6 @@
+frontend/node_modules
+sleepify/node_modules
+sleepify/.env
+frontend/.env
+.env
+
